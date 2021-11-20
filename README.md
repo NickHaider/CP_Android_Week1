@@ -22,7 +22,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://imgur.com/a/MDrcKrD" width=250><br>
 
 ### Notes
-Tutorial went too fast. Need a bit more time explaining MVC, and how Adapters are built and used with RecyclerViews.
+Tutorial went too fast at times; Need a bit more time explaining MVC, and how Adapters are built and used with RecyclerViews.
 
 ### Open-source libraries used
 
